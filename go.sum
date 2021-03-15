@@ -1,0 +1,6 @@
+github.com/mattn/go-sqlite3 v1.14.6 h1:dNPt6NO46WmLVt2DLNpwczCmdV5boIZ6g/tlDrlRUbg=
+github.com/mattn/go-sqlite3 v1.14.6/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
+github.com/mstruebing/tldr v1.1.1 h1:5Dp1LHQmQdc+giJCSkp0Fscr+y5cfqjm8mz1dVds4qE=
+github.com/mstruebing/tldr v1.1.1/go.mod h1:umdJGW+OFWbt4To4+1Kd0U5BCmsh4E++/1bEhwD/+XY=
+github.com/phdevbr/mathtoolkit v0.0.0-20210309192702-7bb69b41e780 h1:R7NZ/dUeEKRpco5W8nthOsxtlANe691HZdnGqWvL6/w=
+github.com/phdevbr/mathtoolkit v0.0.0-20210309192702-7bb69b41e780/go.mod h1:mAsahgY/wuCp4/Kd6/Y2YYWQKEFgBbDa6AtvinjtERE=
